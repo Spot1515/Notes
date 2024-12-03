@@ -1,0 +1,7 @@
+# this is a group of note about diffrent python packages
+
+
+
+1. pyodbc
+  a. Connect String Format | 'DRIVER={driver};SERVER=localhost;DATABASE=testdb;UID=me;PWD=pass'
+    a. Microsoft SQL Driver: {ODBC Driver 17 for SQL Server}
