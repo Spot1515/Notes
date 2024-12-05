@@ -1,0 +1,7 @@
+
+
+
+
+Fix for missing context linkes in New
+  things like (text file, rich text, file, folder, ext)
+  Below is a link to a set of reg edits that will add or remove the items
